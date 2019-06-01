@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Hi. I like Node.js
+Hi Hubot here. I like Node.js
